@@ -1,0 +1,29 @@
+{
+  "name": "lowdb-nativescript-adapter",
+  "version": "0.1.0",
+  "description": "A lowdb adapter for using the database from NativeScript apps.",
+  "main": "index",
+  "typings": "./index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ludwiktrammer/lowdb-nativescript-adapter.git"
+  },
+  "keywords": [
+    "NativeScript",
+    "Lowdb",
+    "adapter",
+    "database",
+    "json"
+  ],
+  "dependencies": {
+    "lowdb": "^1.0.0",
+    "tns-core-modules": "^3.0.0"
+  },
+  "author": "Ludwik Trammer <ludwik@gmail.com>",
+  "license": "MIT",
+  "bugs": "https://github.com/ludwiktrammer/lowdb-nativescript-adapter/issues",
+  "homepage": "https://github.com/ludwiktrammer/lowdb-nativescript-adapter",
+  "devDependencies": {
+    "@types/lowdb": "^1.0.2"
+  }
+}
